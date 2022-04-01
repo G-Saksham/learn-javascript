@@ -4,7 +4,7 @@
 const errorEl = document.getElementById("error")
 
 function errorAlert() {
-  errorEL.textContent = "Something went wrong, please try again"
+  errorEl.textContent = "Something went wrong, please try again"
 }
 
 
